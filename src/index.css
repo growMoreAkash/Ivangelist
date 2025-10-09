@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: Gontserrat;
+  src: url("../src/fonts/Gontserrat-Black.ttf");
+}
+
+@font-face {
+  font-family: Montserrat;
+  src: url("../src/fonts/Montserrat-Black.ttf");
+}
+@font-face {
+  font-family: Montserrat-light;
+  src: url("../src/fonts/Montserrat-Light.ttf");
+}
+
+
+@theme {
+
+  --font-gontserrat: Gontserrat, "sans-serif";
+  --font-montserrat: Montserrat, "sans-serif";
+  --font-montserratLight: Montserrat-light, "sans-serif";
+
+  --breakpoint-sm: 480px;
+  --breakpoint-md: 768px;
+  --breakpoint-lg: 976px;
+  --breakpoint-xxmd: 1600px;
+
+  --breakpoint-xa: 1500px;
+  --breakpoint-xb: 1100px;
+  --breakpoint-xc: 660px;
+  --breakpoint-xd: 600px;
+  --breakpoint-xe: 380px;
+  
+  --breakpoint-ra: 412px;
+}
