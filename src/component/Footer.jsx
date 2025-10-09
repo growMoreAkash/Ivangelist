@@ -44,8 +44,8 @@ const Footer = () => (
       <img src={logo} alt="NYUZ logo" className="h-16 sm:h-20" />
 
       <div className="flex gap-6 text-yellow-400 text-2xl">
-        <a href="https://www.facebook.com/NYUZMAKER" aria-label="Facebook" className="hover:text-white"><FaFacebookF /></a>
-        <a href="https://in.linkedin.com/in/navin-sadarangani-372b2b5" aria-label="LinkedIn" className="hover:text-white"><FaTwitter /></a>
+        <a href="https://www.facebook.com/profile.php?id=100064128068735" aria-label="Facebook" className="hover:text-white"><FaFacebookF /></a>
+        {/* <a href="https://in.linkedin.com/in/navin-sadarangani-372b2b5" aria-label="LinkedIn" className="hover:text-white"><FaTwitter /></a> */}
         <a href="http://instagram.com/thejewelleryivangelyst/" aria-label="Instagram" className="hover:text-white"><FaInstagram /></a>
         {/* <a href="https://www.youtube.com/@nayamain" aria-label="YouTube" className="hover:text-white"><FaYoutube /></a> */}
       </div>
