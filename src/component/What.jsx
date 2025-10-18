@@ -67,64 +67,139 @@ const tji1GalleryData =
     {
       label: "Networking",
       items: [
-        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1759504741/Copy_of_C_6_rploed.png" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760522029/5S7B4280_gx3cgo.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760522021/5S7B4238_lfvkq7.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760522014/5S7B4234_gcouua.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760522006/5S7B4255_uvx3fk.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760521998/5S7B4269_giqb9g.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760521991/5S7B4266_o1hs0a.jpg" },
         { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1759504747/Copy_of_L_5_d2vak6.png" },
       ],
     },
     {
       label: "The Start",
       items: [
-        // { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1759504666/Copy_of_R_1_lh4b9g.png" },
-        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1759504667/Copy_of_L_1_pjswrn.png" },
-        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1759504670/Copy_of_L_r9g3sc.png" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760520471/5S7B4326_comkoy.jpg" },
+        { type: "video", src: "https://res.cloudinary.com/dctcpt8tq/video/upload/v1760751909/start2_tji1_d2tmtf.mp4" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760520468/5S7B4319_ld55sh.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760520466/5S7B4372_ayisaf.jpg" },
+        { type: "video", src: "https://res.cloudinary.com/dctcpt8tq/video/upload/v1760751970/start1_tji1_i61opd.mp4" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760520467/5S7B4290_zl72ds.jpg" },
+        { type: "video", src: "https://res.cloudinary.com/dctcpt8tq/video/upload/v1760752033/start_tji1_qjkvlu.mp4" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760520464/5S7B4340_kstwoi.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760520463/5S7B4334_hckdrt.jpg" },
+        { type: "video", src: "https://res.cloudinary.com/dctcpt8tq/video/upload/v1760751855/start3_tji1_iotahl.mp4" },
       ],
     },
     {
       label: "Speakers",
       items: [
-        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1759504682/Copy_of_C_2_dkzont.png" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760520603/Anshuman_Backdrop_voxtht.jpg" },
         { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1759504683/Copy_of_C_xeprqj.png" },
-        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1759504684/Copy_of_R_3_pgk12a.png" },
-        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1759504685/Copy_of_R_icribl.png" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760520690/5S7B4518_xd6nwf.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760520696/5S7B4514_crdfkh.jpg" },
+        { type: "video", src: "https://res.cloudinary.com/dctcpt8tq/video/upload/v1760751735/speaker2_tji1_ca6wcn.mp4" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760520633/M_P_Singh_Backdrop_pjoanz.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760520625/5S7B4797_nbmzun.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760520617/5S7B4833_stogtj.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1759504682/Copy_of_C_2_dkzont.png" },
+        { type: "video", src: "https://res.cloudinary.com/dctcpt8tq/video/upload/v1760763778/singer_speaker_tji1_iwl7x7.mp4" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760520939/Sridevi_Varun_Backdrop_i89vfb.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760520956/5S7B4480_kfblab.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760520963/5S7B4454_gepvbf.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760520667/5S7B4450_zvnnz6.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760520672/5S7B4452_knqibv.jpg" },
+        { type: "video", src: "https://res.cloudinary.com/dctcpt8tq/video/upload/v1760751723/speaker1_tji1_o3yjqi.mp4" },
       ],
     },
     {
       label: "Panel Discussion",
       items: [
-        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1759504703/Copy_of_C_8_ubrelf.png" },
-        // { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1759504705/Copy_of_C_9_i5ex5t.png" },
-        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1759504707/Copy_of_L_4_xbiogb.png" },
-        // { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1759504709/Copy_of_L_9_e93k8c.png" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760521036/5S7B4850_edvfyl.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760521027/5S7B4847_wa6mpy.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760521022/5S7B4883_b29mx1.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760521017/5S7B4874_ghh7wf.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760521013/5S7B4871_cgyojp.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760521004/5S7B4865_hylb5y.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760520999/5S7B4851_xcikzw.jpg" },
+
+      ],
+    },
+    {
+      label: "Launch",
+      items: [
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760593700/5S7B4370_yj4e6o.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760593695/5S7B4365_vydbak.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760593689/5S7B4366_jjeytw.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760593707/5S7B4356_bln3f8.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760593713/5S7B4359_rto1u7.jpg" },
+        { type: "video", src: "https://res.cloudinary.com/dctcpt8tq/video/upload/v1760752108/launch_tji1_b596do.mp4" },
+      ],
+    },
+    {
+      label: "I am the Jewelry Ivangelyst",
+      items: [
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760593683/5S7B4921_ocvb8x.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760593679/5S7B4919_mwo7dp.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760593676/5S7B4926_extyp7.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760593673/5S7B4949_psnyjx.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760593670/5S7B4709_kjbxrr.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760593499/5S7B4712_qk6rtv.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760593269/5S7B4714_wiyfrl.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760593265/5S7B4715_gxdtvb.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760593262/5S7B4717_e55mmi.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760593258/5S7B4719_dqvbfa.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760593255/5S7B4720_iuipzn.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760593251/5S7B4723_l4uba3.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760593248/5S7B4900_prflwr.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760593245/5S7B4901_gfcttq.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760593241/5S7B4903_xk3fvn.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760593238/5S7B4904_wbf9uy.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760593234/5S7B4905_f7ppb9.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760593231/5S7B4908_ft39id.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760593227/5S7B4911_ezb3bl.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760593224/5S7B4917_wmtyrh.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760593221/5S7B4913_geegtk.jpg" },
       ],
     },
     {
       label: "Active Audience",
       items: [
-        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1759504817/Copy_of_R_9_nmupbi.png" },
-        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1759504814/Copy_of_R_6_gpt67u.png" },
-        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1759504811/Copy_of_R_5_qr5x0d.png" },
-        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1759504808/Copy_of_R_4_vy7mbm.png" },
-        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1759504803/Copy_of_C_5_x44joh.png" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760520207/5S7B4298_npzu4r.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760520211/5S7B4336_oxuqv8.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760520214/5S7B4380_jshces.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760520219/5S7B4588_a4l74s.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760520222/5S7B4384_enoijr.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760520226/5S7B4292_tdqt8n.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760593014/5S7B4410_d8km50.jpg" },
       ],
     },
     {
       label: "Bits and Bytes",
       items: [
-        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1759504782/Copy_of_L_6_ghcrca.png" },
-        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1759504786/Copy_of_L_7_yn7zde.png" },
-        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1759504788/Copy_of_L_8_ddqd8o.png" },
-        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1759504792/Copy_of_L_10_pg4akk.png" },
-        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1759504794/Copy_of_R_7_sm8bfa.png" },
-        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1759504797/Copy_of_R_8_cyko95.png" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760592969/5S7B4739_uwsqkd.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760592974/5S7B4740_icndda.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760592959/5S7B4741_cghq14.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760592954/5S7B4763_al23xf.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760592941/5S7B4744_xktbs0.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760522631/Copy_of_R_7_weyn6o.png" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760522623/Copy_of_R_8_gzdt4b.png" },
+        { type: "video", src: "https://res.cloudinary.com/dctcpt8tq/video/upload/v1760751755/bits2_tji1_ha1u8p.mp4" },
+        { type: "video", src: "https://res.cloudinary.com/dctcpt8tq/video/upload/v1760751782/bits1_tji1_xqftyu.mp4" },
+
       ],
     },
     {
       label: "Group Photo",
       items: [
-        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1759504764/1_u9grdy.jpg" },
-        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1759504767/Copy_of_C_1_x8ahev.png" },
-        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1759504769/Copy_of_C_3_iiyral.png" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760522102/5S7B4929_cpvahv.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760522083/5S7B4671_mrozd8.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760522075/5S7B4930_ze4vsy.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760522067/5S7B4668_ohc4wv.jpg" },
         { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1759504773/Copy_of_C_4_eivchl.png" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1759504769/Copy_of_C_3_iiyral.png" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1759504767/Copy_of_C_1_x8ahev.png" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1759504764/1_u9grdy.jpg" },
       ],
     },
   ];
@@ -134,60 +209,121 @@ const tji2GalleryData =
     {
       label: "Networking",
       items: [
-        // { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1759507776/Copy_of_Artboard_40_l9cckg.png" },
-                { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1759507806/Copy_of_TJI_zq68zq.png" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615640/ZY9A0573_axxgtw.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615642/ZY9A0583_vpuz56.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615646/ZY9A0586_anvpzm.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615647/ZY9A0589_abr4br.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615648/ZY9A0591_wjwjaq.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615652/ZY9A0730_xgwyl5.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615652/ZY9A0737_upshhn.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615654/ZY9A0740_cmiwkv.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615656/ZY9A0534_abg6sg.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615659/ZY9A0556_oxds5n.jpg" },
       ],
     },
     {
       label: "The Start",
       items: [
-
-        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1759507654/Copy_of_Artboard_16_xot0pi.png" },
-        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1759507658/Copy_of_Artboard_31_ezonec.png" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760752757/ZY9A0612_iukckg.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760752752/ZY9A0928_dqtfyz.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760752740/ZY9A0603_jzmxt4.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760752738/ZY9A0599_xjt4kc.jpg" },
+        { type: "video", src: "https://res.cloudinary.com/dctcpt8tq/video/upload/v1760752618/start1_tji2_kipp6g.mp4" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760752737/ZY9A0593_v3fw7n.jpg" },
+        { type: "video", src: "https://res.cloudinary.com/dctcpt8tq/video/upload/v1760752640/start3_tji2_b5ztmh.mp4" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760752752/tji2-introad_yxbvpn.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760752755/ZY9A0644_vogqbk.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760752749/ZY9A0643_fq5zpl.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760752748/ZY9A0631_v20m2n.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760752745/ZY9A0632_pda0nq.jpg" },
+        { type: "video", src: "https://res.cloudinary.com/dctcpt8tq/video/upload/v1760752652/start2_tji2_rtn09c.mp4" },
       ],
     },
     {
       label: "Speakers",
       items: [
 
-        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1759507667/Copy_of_Artboard_1_p3iwm0.png" },
-        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1759507673/Copy_of_Artboard_2_jbuxe3.png" },
-        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1759507677/Copy_of_Artboard_5_i7je52.png" },
-        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1759507682/Copy_of_Artboard_10_niskjb.png" },
-        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1759507692/Copy_of_Artboard_22_axlsl7.png" },
-        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1759507692/Copy_of_Artboard_22_axlsl7.png" },
-        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1759507697/Copy_of_Artboard_24_seeoo0.png" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615277/tji2-introap_zkdl0d.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615279/ZY9A0867_nehdzy.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615282/ZY9A0863_dqtxoj.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615282/ZY9A0861_fgwlwy.jpg" },
+        { type: "video", src: "https://res.cloudinary.com/dctcpt8tq/video/upload/v1760758288/speaker_1_tji2_q61etc.mp4" },
+
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615338/tji2-intropp_ys86f1.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615346/ZY9A0832_jzzw6g.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615349/ZY9A0814_ozekyt.jpg" }, ,
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615353/ZY9A0840_en00tz.jpg" },
+        { type: "video", src: "https://res.cloudinary.com/dctcpt8tq/video/upload/v1760752786/speaker2_tji2_laxg7s.mp4" },
+
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615375/tji2-introsans_rlatbi.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615375/ZY9A0896_lhulue.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615380/ZY9A0919_h0pm01.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615382/ZY9A0889_eljh73.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615384/ZY9A0898_iy0prf.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615387/ZY9A0890_xcsup9.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615385/ZY9A0891_ofjwmb.jpg" },
       ],
     },
     {
       label: "Panel Discussion",
       items: [
-
-        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1759507785/Copy_of_Artboard_42_zhgqsf.png" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615247/tji2-introssid_g6umsv.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615251/ZY9A0669_cpuhyz.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615253/ZY9A0672_uzrx0p.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615253/ZY9A0671_sty0s5.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615258/ZY9A0720_a5vikn.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615258/ZY9A0673_getwaf.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615266/ZY9A0689_nbcr8h.jpg" },
+        { type: "video", src: "https://res.cloudinary.com/dctcpt8tq/video/upload/v1760752531/panel1_tji2_osrlf8.mp4" },
+        { type: "video", src: "https://res.cloudinary.com/dctcpt8tq/video/upload/v1760752543/panel2_tji2_hxopv7.mp4" },
       ],
     },
     {
       label: "Active Audience",
       items: [
-        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1759507814/Copy_of_Artboard_25_uiwq5s.png" },
-        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1759507821/Copy_of_Artboard_27_uzglok.png" },
-        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1759507828/Copy_of_Artboard_35_brxxjr.png" },
-        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1759507834/Copy_of_Artboard_45_p0cwhb.png" },
-        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1759507840/Copy_of_Artboard_12_hzbnsf.png" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615411/ZY9A0654_yyuih7.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615411/ZY9A0656_sf5rmg.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615414/ZY9A0605_ski9as.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615417/ZY9A0609_vx6zeh.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615418/ZY9A0610_c5rtws.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615442/ZY9A0613_hpouka.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615446/ZY9A0618_gasfbg.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615451/ZY9A0621_q1smxy.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615453/ZY9A0630_crwzqv.jpg" },
       ],
     },
-    //     {
-    //       label: "Bits and Bytes",
-    //       items: [
-    // { type: "image", src: "" },
-    //       ],
-    //     },
+    {
+      label: "Bits and Bytes",
+      items: [
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615491/ZY9A0961_vicdcx.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615494/ZY9A0956_j5iddg.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615513/ZY9A0571_p7ib3f.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615596/ZY9A0967_ipt9xe.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615598/ZY9A0504_kxxxmy.jpg" },
+      ],
+    },
     {
       label: "Group Photo",
       items: [
-        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1759507794/Copy_of_Artboard_46_f8plk8.png" },
-        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1759507800/Copy_of_Copy_of_Artboard_33_ipnwru.png" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615462/ZY9A0484_tucw0z.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615464/ZY9A0519_yggk20.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615467/ZY9A0548_fwuvif.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615469/ZY9A0565_tab1rp.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615472/ZY9A0781_lcpxw4.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615475/ZY9A0786_sp0kvb.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615476/ZY9A1002_kb17sr.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615478/ZY9A0474_vgjhxi.jpg" },
+        { type: "image", src: "https://res.cloudinary.com/dctcpt8tq/image/upload/v1760615480/ZY9A0481_j5mp3i.jpg" },
 
+      ],
+    },
+    {
+      label: "Testimonials",
+      items: [
+        { type: "video", src: "https://res.cloudinary.com/dctcpt8tq/video/upload/v1760751697/test1_tji2_ep0hlc.mp4" },
+        { type: "video", src: "https://res.cloudinary.com/dctcpt8tq/video/upload/v1760751685/test4_tji2_hnhll5.mp4" },
+        { type: "video", src: "https://res.cloudinary.com/dctcpt8tq/video/upload/v1760751679/test2_tji2_mx3gnf.mp4" },
+        { type: "video", src: "https://res.cloudinary.com/dctcpt8tq/video/upload/v1760751675/test3_tji2_hd3szf.mp4" },
       ],
     }
   ];
@@ -389,8 +525,10 @@ const tji3GalleryData =
       ],
     },
   ];
+
 const GalleryModal = ({ open, galleryData = [], onClose, onSelect, onTabChange }) => {
   const [activeTab, setActiveTab] = useState(0);
+  const [loadedItems, setLoadedItems] = useState({}); // ✅ track loaded items
 
   if (!open) return null;
 
@@ -407,12 +545,18 @@ const GalleryModal = ({ open, galleryData = [], onClose, onSelect, onTabChange }
 
   const handleTabClick = (index) => {
     setActiveTab(index);
-    onTabChange?.(galleryData[index].items); // ✅ notify parent
+    onTabChange?.(galleryData[index].items);
+    setLoadedItems({}); // reset loaders when switching tab
+  };
+
+  // ✅ when an image or video finishes loading
+  const handleLoaded = (index) => {
+    setLoadedItems((prev) => ({ ...prev, [index]: true }));
   };
 
   return (
     <div
-      className="fixed  inset-0 z-40 flex items-center justify-center bg-black/80 backdrop-blur-sm"
+      className="fixed inset-0 z-40 flex items-center justify-center bg-black/80 backdrop-blur-sm"
       onClick={handleBackdrop}
     >
       <div
@@ -426,6 +570,7 @@ const GalleryModal = ({ open, galleryData = [], onClose, onSelect, onTabChange }
           ✕
         </button>
 
+        {/* Tabs */}
         {isTabbed && (
           <div className="flex flex-wrap border-b border-gray-200 mb-4">
             {galleryData.map((tab, index) => (
@@ -443,60 +588,57 @@ const GalleryModal = ({ open, galleryData = [], onClose, onSelect, onTabChange }
           </div>
         )}
 
-        {galleryData[activeTab]?.label === "Website Launch" ?
-          <>
-            <div className="flex-grow overflow-y-auto">
-              <div className="p-2">
-                {currentItems.map((item, idx) => (
-                  <div
-                    key={idx}
-                    className="relative h-[435px] w-full aspect-square cursor-pointer overflow-hidden rounded-md border border-gray-200 group"
-                    onClick={() => onSelect(item)}
-                  >
-                    <img
-                      src={item.src}
-                      alt=""
-                      className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-110"
-                    />
-                    <div className="absolute inset-0 bg-black/20 group-hover:bg-black/40 transition-colors"></div>
+        {/* Gallery Items */}
+        <div className="flex-grow overflow-y-auto">
+          <div
+            className={`${galleryData[activeTab]?.label === "Website Launch"
+              ? "p-2"
+              : "grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4 p-2"
+              }`}
+          >
+            {currentItems.map((item, idx) => (
+              <div
+                key={idx}
+                className={`relative ${galleryData[activeTab]?.label === "Website Launch"
+                  ? "h-[435px]"
+                  : "w-full aspect-square"
+                  } cursor-pointer overflow-hidden rounded-md border border-gray-200 group`}
+                onClick={() => onSelect(item)}
+              >
+                {/* ✅ Loader overlay */}
+                {!loadedItems[idx] && (
+                  <div className="absolute inset-0 flex items-center justify-center bg-gray-200 animate-pulse">
+                    <div className="w-10 h-10 border-4 border-yellow-500 border-t-transparent rounded-full animate-spin"></div>
                   </div>
-                ))}
-              </div>
-            </div>
-          </> :
+                )}
 
-          <div className="flex-grow overflow-y-auto ">
-            <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4 p-2">
-              {currentItems.map((item, idx) => (
-                <div
-                  key={idx}
-                  className="relative w-full aspect-square cursor-pointer overflow-hidden rounded-md border border-gray-200 group"
-                  onClick={() => onSelect(item)}
-                >
-                  {/* {item} */}
-                  {item.type === "image" ? (
-                    <img
-                      src={item.src}
-                      alt=""
-                      className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-110"
-                    />
-                  ) : (
-                    <video
-                      src={item.src}
-                      muted
-                      autoPlay
-                      loop
-                      playsInline
-                      className="w-full h-full object-cover pointer-events-none"
-                      title={`video-preview-${idx}`}
-                    />
-                  )}
-                  <div className="absolute inset-0 bg-black/20 group-hover:bg-black/40 transition-colors"></div>
-                </div>
-              ))}
-            </div>
+                {item.type === "image" ? (
+                  <img
+                    src={item.src}
+                    alt=""
+                    onLoad={() => handleLoaded(idx)}
+                    className={`w-full h-full object-cover transition-transform duration-300 group-hover:scale-110 ${loadedItems[idx] ? "opacity-100" : "opacity-0"
+                      }`}
+                  />
+                ) : (
+                  <video
+                    src={item.src}
+                    muted
+                    autoPlay
+                    loop
+                    playsInline
+                    onLoadedData={() => handleLoaded(idx)}
+                    className={`w-full h-full object-cover pointer-events-none transition-opacity duration-300 ${loadedItems[idx] ? "opacity-100" : "opacity-0"
+                      }`}
+                    title={`video-preview-${idx}`}
+                  />
+                )}
+
+                <div className="absolute inset-0 bg-black/20 group-hover:bg-black/40 transition-colors"></div>
+              </div>
+            ))}
           </div>
-        }
+        </div>
       </div>
     </div>
   );
@@ -576,16 +718,25 @@ const What = () => {
   const [galleryData, setGalleryData] = useState([]);
   const [currentIndex, setCurrentIndex] = useState(null);
   const [currentItems, setCurrentItems] = useState([]);
+  const [loadingGallery, setLoadingGallery] = useState(false);
+
 
   // open gallery with correct data
-  const openGallery = (data) => {
+  const openGallery = async (data) => {
+    setLoadingGallery(true); // show loader
+
+    // simulate loading (if you load from server, await the fetch here)
+    await new Promise((resolve) => setTimeout(resolve, 800));
+
     if (Array.isArray(data) && data.length > 0 && data[0].hasOwnProperty("label")) {
       setCurrentItems(data[0].items);
     } else {
       setCurrentItems(data);
     }
+
     setGalleryData(data);
     setShowGallery(true);
+    setLoadingGallery(false); // hide loader
   };
 
   // when clicking an image inside gallery
@@ -664,6 +815,12 @@ const What = () => {
           </div>
         </div>
 
+        {loadingGallery && (
+          <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/80 backdrop-blur-sm">
+            <div className="w-16 h-16 border-4 border-yellow-400 border-t-transparent rounded-full animate-spin"></div>
+          </div>
+        )}
+
         {/* Gallery Modal */}
         <GalleryModal
           open={showGallery}
@@ -674,7 +831,6 @@ const What = () => {
         />
 
         {/* Image Modal */}
-        {console.log(showImageModal)}
         {showImageModal && (
           <ImageModal
             items={selectedItems}
