@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useState,useEffect } from 'react'
 
 const tji3_network_1 = "https://res.cloudinary.com/dnmljnbh7/image/upload/v1755362038/TJI_3_Networking_3_ttemy9.jpg"
 const tji3_network_2 = "https://res.cloudinary.com/dnmljnbh7/image/upload/v1755362038/TJI_3_Networking_4_cb88bv.jpg"
@@ -60,7 +60,6 @@ const tji3_bb_11 = "https://res.cloudinary.com/dctcpt8tq/image/upload/v175594108
 const tji3_bb_12 = "https://res.cloudinary.com/dctcpt8tq/image/upload/v1755941083/TGI3_BiteandBites_3_f26dre.jpg"
 
 import whatImg from "../assets/what.png"
-
 
 const tji1GalleryData =
   [
@@ -554,6 +553,7 @@ const GalleryModal = ({ open, galleryData = [], onClose, onSelect, onTabChange }
     setLoadedItems((prev) => ({ ...prev, [index]: true }));
   };
 
+
   return (
     <div
       className="fixed inset-0 z-40 flex items-center justify-center bg-black/80 backdrop-blur-sm"
@@ -653,7 +653,9 @@ const ImageModal = ({ items = [], currentIndex, onClose, onNavigate }) => {
   return (
     <div
       className="fixed inset-0 z-50 flex items-center justify-center bg-black/90"
-      onClick={(e) => e.target === e.currentTarget && onClose()}
+      onClick={(e) => {
+        if (e.target === e.currentTarget) onClose();
+      }}
     >
       {/* Close Button */}
       <button
@@ -744,7 +746,7 @@ const What = () => {
     const index = currentItems.findIndex((i) => i.src === item.src);
     setSelectedItems(currentItems);  // all items to navigate inside modal
     setCurrentIndex(index);          // current image index
-    setShowGallery(false);           // close gallery
+    // setShowGallery(false);           // close gallery
     setShowImageModal(true);         // open image modal
   };
 
@@ -822,13 +824,14 @@ const What = () => {
         )}
 
         {/* Gallery Modal */}
-        <GalleryModal
-          open={showGallery}
-          galleryData={galleryData}
-          onClose={() => setShowGallery(false)}
-          onSelect={handleSelect}
-          onTabChange={handleTabChange}
-        />
+<GalleryModal
+  key={showGallery ? galleryData[0]?.label || Math.random() : null} // 🧠 force remount when reopened
+  open={showGallery}
+  galleryData={galleryData}
+  onClose={() => setShowGallery(false)}
+  onSelect={handleSelect}
+  onTabChange={handleTabChange}
+/>
 
         {/* Image Modal */}
         {showImageModal && (
