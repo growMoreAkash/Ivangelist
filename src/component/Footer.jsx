@@ -110,7 +110,7 @@ const Footer = () => (
     {/* ─────────── bottom strip ─────────── */}
     <div className="max-w-screen-xl mx-auto text-center py-6 text-sm sm:text-base">
       © 2025 IVANGELYST. All rights reserved.
-      <h1 className='text-xl font-semibold'>Design by <Link to="https:/rightclickadvd.com">RightClick</Link> | Development by <Link to="https:/akasuya.com">Akasuya</Link></h1>
+      <h1 className='text-xl font-semibold'>Design by <Link to="https://www.rightclickadvd.com">RightClick</Link> | Development by <Link to="https://www.akasuya.com">Akasuya</Link></h1>
     </div>
   </footer>
 );
